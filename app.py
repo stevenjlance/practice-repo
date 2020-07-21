@@ -16,7 +16,7 @@ events = [
     ]
 
 # name of database
-# app.config['MONGO_DBNAME'] = 'database-name'
+app.config['MONGO_DBNAME'] = 'database-name'
 
 # URI of database
 # app.config['MONGO_URI'] = 'mongo-uri'
